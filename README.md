@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://github.com/i-am-fyre/MaNGOS-Discord-Register-Bot" target="_blank">
-    <img height="150" alt="default bot banner" src="/img/default-bot-banner.png"/>
+    <img height="150" alt="default bot banner" src="/img/default-bot-banner.svg"/>
   </a>
 </p>
 <p align="center">
