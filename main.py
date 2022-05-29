@@ -3,7 +3,7 @@ import MySQLdb
 from hashlib import sha1
 
 import discord
-from discord.ui import Button, InputText, Modal, Select, View
+from discord.ui import Button, InputText, Modal, View
 from discord.ext import commands
 
 config = configparser.ConfigParser()
