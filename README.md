@@ -13,6 +13,21 @@
 MaNGOS Discord Registration Bot is a project aiming to provide server administrators with an easy way to register new players to their MaNGOS server through their Discord channel.
 
 
+# Pre-alpha version :abc:
+
+MaNGOS-Discord-Register-Bot is currently in an untested pre-alpha state. That means that there may be a lot of bugs, issues, and security holes.
+I take no responsibility for any damage or lost data caused by using this bot.
+
+DISCLAIMER:
+- Use at your own risk!
+- Always back-up data before testing. 
+- Test on a local server first before using it on a public server. 
+- Test using data that is not important. 
+- Test with a small group first. 
+
+Please feel free to contribute to the project, and report any issues you may encounter.
+
+
 # Features :rocket:
 - Easy setup.
 - Easy integration.
@@ -49,13 +64,6 @@ pip install -r requirements.txt
 
 Within your Discord server, users can also type: /register
 This will also open up the registration modal.
-
-
-# Pre-alpha version :abc:
-
-MaNGOS-Discord-Register-Bot is currently in an untested pre-alpha state. That means that there may be a lot of bugs, issues, and security holes.
-
-Please feel free to contribute to the project, and report any issues you may encounter.
 
 
 # Support :computer:
