@@ -12,11 +12,13 @@
  
 MaNGOS Discord Registration Bot is a project aiming to provide server administrators with an easy way to register new players to their MaNGOS server through their Discord channel.
 
+
 # Features :rocket:
 - Easy setup.
 - Easy integration.
 - Fast.
 - Customizable.
+
 
 # Getting Started :1234:
 
@@ -25,7 +27,6 @@ MaNGOS Discord Registration Bot is a project aiming to provide server administra
 ```git
 git clone https://github.com/i-am-fyre/MaNGOS-Discord-Register-Bot
 ```
-
 ## Creating a Discord Bot :hammer_and_wrench:
 I used this website: https://discordpy.readthedocs.io/en/stable/discord.html
 
@@ -49,11 +50,13 @@ pip install -r requirements.txt
 Within your Discord server, users can also type: /register
 This will also open up the registration modal.
 
+
 # Pre-alpha version :abc:
 
 MaNGOS-Discord-Register-Bot is currently in an untested pre-alpha state. That means that there may be a lot of bugs, issues, and security holes.
 
 Please feel free to contribute to the project, and report any issues you may encounter.
+
 
 # Support :computer:
 
@@ -69,12 +72,12 @@ You can ask questions, and participate in discussions about MaNGOS-Discord-Regis
 
 If you observe an error or encounter a bug, please create an issue on the GitHub repository. You can use the GitHub issue tracker to [submit a bug report](https://github.com/i-am-fyre/MaNGOS-Discord-Register-Bot/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5B%3Abug%3A%5D+). All bug reports are valuable and will help all MaNGOS-Discord-Register-Bot users.
 
-
 ## Submit a feature request :sparkles:
 
 If you want to suggest a new feature, please create an issue on the GitHub repository. You can use the Github issue tracker to [submit a feature request](https://github.com/i-am-fyre/MaNGOS-Discord-Register-Bot/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5B%3Asparkles%3A%5D+).
 
 If you find a similar feature request, feel free to leave a "thumbs up" to show support.
+
 
 # Contributing :tada:
 
